@@ -1,6 +1,6 @@
 ## Unifying Multiple Molecular Perspectives via Cross Attention for Drug-Target Interaction Prediction
 
-This repository contains the source code,
+This repository contains the source code
 
 ### Dependencies
 - Python 3.10.12
